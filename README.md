@@ -17,6 +17,8 @@ MOSTLY ALL PYTHON CODE USED FOR ANALYSIS OF DATA
 
 ## 2. DATA WRANGLING
 
+https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/data-wrangling.ipynb
+
 Identify and handle missing values
 
 
@@ -39,3 +41,11 @@ Binning
 
 
 Indicator variable
+
+
+## 3. 
+
+
+## 4. 
+## 5. 
+## 6. 
