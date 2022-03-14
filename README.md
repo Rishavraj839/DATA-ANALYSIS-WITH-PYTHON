@@ -59,6 +59,23 @@ Correlation and Causation
 
 ANOVA
 
-## 4. 
-## 5. 
+## 4.  Model Development
+
+https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/model-development.ipynb
+
+
+Linear Regression
+
+Multiple Regression
+
+R squared
+
+## 5. Model Evaluation and Refinement
+
+
+
+Model Evaluation
+Over-fitting, Under-fitting and Model Selection
+Ridge Regression
+Grid Search
 ## 6. 
