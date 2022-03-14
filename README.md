@@ -43,8 +43,21 @@ Binning
 Indicator variable
 
 
-## 3. 
+## 3. Exploratory Data Anaylsis (EDA)
 
+  https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/exploratory-data-analysis_pdf.pdf
+
+Import Data from Module
+
+Analyzing Individual Feature Patterns using Visualization
+
+Descriptive Statistical Analysis
+
+Basics of Grouping
+
+Correlation and Causation
+
+ANOVA
 
 ## 4. 
 ## 5. 
