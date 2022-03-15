@@ -72,10 +72,13 @@ R squared
 
 ## 5. Model Evaluation and Refinement
 
+https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/-Model-Evaluation-and-Refinement.ipynb
 
 
 Model Evaluation
+
 Over-fitting, Under-fitting and Model Selection
+
 Ridge Regression
-Grid Search
+
 ## 6. 
