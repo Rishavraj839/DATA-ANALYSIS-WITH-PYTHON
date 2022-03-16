@@ -81,4 +81,4 @@ Over-fitting, Under-fitting and Model Selection
 
 Ridge Regression
 
-## 6. 
+### End
