@@ -72,8 +72,8 @@ R squared
 
 ## 5. Model Evaluation and Refinement
 
-https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/-Model-Evaluation-and-Refinement.ipynb
 
+https://nbviewer.org/github/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/-Model-Evaluation-and-Refinement.ipynb
 
 Model Evaluation
 
