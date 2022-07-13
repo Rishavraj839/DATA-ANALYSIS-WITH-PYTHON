@@ -17,7 +17,7 @@ MOSTLY ALL PYTHON CODE USED FOR ANALYSIS OF DATA
 
 ## 2. DATA WRANGLING
 
-https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/data-wrangling.ipynb
+https://nbviewer.org/github/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/data-wrangling.ipynb
 
 Identify and handle missing values
 
