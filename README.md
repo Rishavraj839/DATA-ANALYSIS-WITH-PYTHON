@@ -6,7 +6,7 @@ MOSTLY ALL PYTHON CODE USED FOR ANALYSIS OF DATA
 
 ## 1. IMPORTING DATASETS 
 
-  https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/data%20Acquistion%20read%20and%20save%20dataset.ipynb
+ https://nbviewer.org/github/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/data%20Acquistion%20read%20and%20save%20dataset.ipynb
   
   READ DATA
   
