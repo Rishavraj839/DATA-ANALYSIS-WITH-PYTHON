@@ -46,6 +46,10 @@ Indicator variable
 ## 3. Exploratory Data Anaylsis (EDA)
 
   https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/exploratory-data-analysis_pdf.pdf
+   
+   or
+   
+  https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/exploratory-data-analysis.ipynb
 
 Import Data from Module
 
@@ -61,7 +65,7 @@ ANOVA
 
 ## 4.  Model Development
 
-https://github.com/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/model-development.ipynb
+https://nbviewer.org/github/Rishavraj839/DATA-ANALYSIS-WITH-PYTHON/blob/main/model-development.ipynb
 
 
 Linear Regression
